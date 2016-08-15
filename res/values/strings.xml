@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">پیامک سفیر</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="ManageSMSLogo">مدیریت پیامک آبگینه</string>
+    <string name="SendReport">گزارش ارسال</string>
+    <string name="cehckSMS">بررس پیامک ها</string>
+    <string name="checkReport"> </string>
+    <string name="send">ارسال پیامک ها</string>
+    <string name="logo">لوگو</string>
+    <string name="EnterNum">شماره موبایل خود را جهت تایید وارد کنید</string>
+    <string name="mobileNum">شماره موبایل</string>
+    <string name="Send">ارسال</string>
+    <string name="baseURl">http://api.natoos.com/api/</string>
+    <string name="noInternet">عدم دسترسی به اینترنت</string>
+    <string name="connectToInternet">برای استفاده نیاز دارید به اینترنت متصل باشید</string>
+    <string name="wait">لطفا صبر کنید</string>
+    <string name="messageReadytoSend">تعداد پیامک های آماده ارسال: </string>
+    <string name="smsSent">تعداد پیامک های ارسال شده: </string>
+    <string name="sentMessage">ارسال شد!</string>
+    <string name="invalidNumber">شماره وارد شده معتبر نیست</string>
+    <string name="validAndSubmitted">شماره معتبر است و ثبت شد</string>
+    <string name="doneValidation">شماره در پایگاه ثبت شد.تا تایید ادمین صبر و سپس دوباره اقدام کنید</string>
+    <string name="gotandupdatedb">کد تایید دریافت شد و در حال به روز رسانی پایگاه</string>
+    <string name="validnumber">شماره 11 رقمی موبایل معتبر وارد کنید</string>
+    <string name="sentCode">کد تایید ارسال شد</string>
+    <string name="application_setting">تنظیمات برنامه</string>
+    <string name="lang">Language - زبان</string>
+    <string name="OK">OK</string>
+    <string name="ChooseLang">انتخاب زبان</string>
+    <string name="autoSendTitle">ارسال خودکار پیامک</string>
+    <string name="autoSendSum">ارسال خودکار پیامک ها در بازه زمانی</string>
+    <string name="smsPerSend">تعداد پیامک</string>
+    <string name="smsPerSendSum">تعداد پیلمک در هر ارسال</string>
+    <string name="autoSendWarning">هنگام فعال بودن ممکن است گوشی شما به خواب نرود و همین طور هنگام روشن شدن فعال می شود</string>
+    <string name="AutoSendTitle">فاصله زمانی ارسال</string>    
+    <string name="AutoSendSummary">فاصله رمانی میان ارسال ها به دقیقه</string>    
+    <string name="pressBack">Return to Main Page</string>    
+    <string name="rapidSendSum">ارسال پیامک های کوتاه بدون بررسی وضیعت ارسال</string>    
+    <string name="rapidSendTitle">ارسال سریع</string>
+
+</resources>

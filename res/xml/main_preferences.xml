@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/application_setting" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="autoSend"
+            android:summary="@string/autoSendSum"
+            android:title="@string/autoSendTitle" />
+
+        <ListPreference
+            android:entries="@array/smsCountPerSend"
+            android:entryValues="@array/smsCountPerSendValues"
+            android:key="smsPerSend"
+            android:summary="@string/smsPerSendSum"
+            android:title="@string/smsPerSend" />
+        <ListPreference
+            android:entries="@array/smsInterval"
+            android:entryValues="@array/smsInterval"
+            android:key="smsTimeInterval"
+            android:summary="@string/AutoSendSummary"
+            android:title="@string/AutoSendTitle" />
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/operatorsName"
+            android:entryValues="@array/operatorsVals"
+            android:key="operatorNum"
+            android:summary="Operators"
+            android:title="Operators" />
+
+        <!--
+      <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="rapidSend"
+            android:summary="@string/rapidSendSum"
+            android:title="@string/rapidSendTitle" />
+        -->
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="rightellimit"
+            android:summary="RighTel"
+            android:title="RighTel" />
+
+        <EditTextPreference
+            android:defaultValue="http://api.natoos.com/api/"
+            android:key="baseUrl"
+            android:title="API URL" />
+
+        <ListPreference
+            android:entries="@array/syncFrequency"
+            android:entryValues="@array/syncFrequencyValues"
+            android:key="lang"
+            android:summary="@string/ChooseLang"
+            android:title="@string/lang" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

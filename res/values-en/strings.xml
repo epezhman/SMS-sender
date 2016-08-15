@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SafirSMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="ManageSMSLogo">Abgineh SMS Manager</string>
+    <string name="SendReport">Send Report</string>
+    <string name="cehckSMS">Check SMS</string>
+    <string name="checkReport"></string>
+    <string name="send">Send</string>
+    <string name="logo">Logo</string>
+    <string name="EnterNum">Enter your Mobile Numberfor Validation</string>
+    <string name="mobileNum">Mobile Number</string>
+    <string name="Send">Submit</string>
+    <string name="baseURl">http://api.natoos.com/api/</string>
+    <string name="wait">Please Wait</string>
+    <string name="noInternet">No Internet Connection</string>
+    <string name="connectToInternet">You need to connected to Internet</string>
+    <string name="messageReadytoSend">SMS ready to be send: </string>
+    <string name="smsSent">Sent SMS: </string>
+    <string name="sentMessage">Sent!</string>
+    <string name="invalidNumber">The Numberis not Valid</string>
+    <string name="validAndSubmitted">The Number is Valid and has been registered</string>
+    <string name="doneValidation">Your number is submitted, wait for admin</string>
+    <string name="validnumber">Enter 11 digit long valid mobile number</string>
+    <string name="sentCode">Confirmation code was sent</string>
+    <string name="application_setting">Application Setting</string>
+    <string name="lang">Language - زبان</string>
+    <string name="OK">OK</string>
+    <string name="ChooseLang">Choose Langauge</string>
+    <string name="autoSendTitle">SMS Auto Send</string>
+    <string name="autoSendSum">Send SMS Automatically</string>
+    <string name="gotandupdatedb">Updating Database</string>
+    <string name="smsPerSend">SMS Per Send</string>
+    <string name="smsPerSendSum">SMS Count Per Send</string>
+    <string name="autoSendWarning">May prevent your cell from sleeping and also starts at boot time</string>
+    <string name="AutoSendTitle">Auto Sent Interval</string>
+    <string name="AutoSendSummary">Auto Sent Time Interval (Minute)</string>
+    <string name="pressBack">برای تاثیر زمان به صفحه اصلی برگردیدی</string>
+    <string name="rapidSendSum">Rapid Send for Short SMSes</string>
+    <string name="rapidSendTitle">Rapid Send</string>
+
+</resources>
